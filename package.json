@@ -22,7 +22,7 @@
 	"license": "MIT",
 	"dependencies": {
 		"lodash": "^4.17.4",
-		"vue": "^2.5.16"
+		"vue": "^3.0.0"
 	},
 	"devDependencies": {
 		"babel-core": "^6.5.2",
